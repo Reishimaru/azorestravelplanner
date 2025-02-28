@@ -1,1 +1,1 @@
-# azorestravelplanner
+# Azores Travel Planner
